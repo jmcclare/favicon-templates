@@ -1,4 +1,4 @@
-# favicons-templates #
+# favicon-templates #
 
 These are templates and sample favicons for websites.
 
